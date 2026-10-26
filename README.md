@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>曾嘉亮 · Huxley Z</h1>
+<h1>Huxley Z</h1>
 
-<strong>把判断带到现场，也把想法做成能用的工具。</strong>
+<strong>不懂AI，所以爱看爱用；PADI潜水教练，Base大湾区，常飞东南亚</strong>
 
-<p>AI 工具与工作流 · 品牌与客户体验 · 潜水教学与行程</p>
+<p>AI 工具与工作流 · 品牌营销策划 · 潜水教学与行程</p>
 
 <p>
   <a href="https://huxleyz.com/">个人网站</a> ·
